@@ -1,0 +1,4 @@
+itemCode|itemName|Quantity|supplierCode|DateAdded
+FS|Face Shield|86|SC0001|08/10/2024
+GL|Gloves|100|SC0003|12/10/2024
+SC|Shoe Covers|100|SC0003|13/10/2024

@@ -1,0 +1,4 @@
+Supplier_Code|Supplier_Name|Register_Date
+SC0001|Test|02/10/2024
+SC0002|Shape|02/10/2024
+SC0003|IJustCreatedThis|13/10/2024

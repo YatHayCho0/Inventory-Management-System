@@ -1,0 +1,4 @@
+HospitalCode|HospitalName|HospitalAddress
+HS001,Columbia Asia Hospital,Bukit Jalil
+HS002,Pantai Hospital ,Kuala Lumpur
+HS003,KMI Taman Desa Medical,asdasd

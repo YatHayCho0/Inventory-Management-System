@@ -1,0 +1,7 @@
+User_ID|Name|Password|User_Type|Date_Register
+ID0001|TEST|TEST|ROLE_CHECKING_TESTER|29/09/2024
+ID0002|Shape|000|Admin|27/12/2007
+ID0003|aaa|aaa|Staff|29/09/2024
+ID0004|bbb|bbb|Admin|29/09/2024
+ID0005|Marcus|dylanissemlly1828|Admin|11/10/2024
+ID0006|Test1Edited|Test1|Admin|12/10/2024
